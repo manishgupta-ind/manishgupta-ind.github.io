@@ -9,8 +9,6 @@ Data Science, Machine Learning, Deep Learning, Python, R Programming, SQL, HTML,
 ---
 ## My Portfolio
 
----
-
 ### Assignments & Coursework: 
 
 ### [Project No. 1: Income Qualification](/sample_page)
@@ -27,19 +25,42 @@ Data Science, Machine Learning, Deep Learning, Python, R Programming, SQL, HTML,
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+### Stand-alone Projects:
+- [Coming soon...](http://example.com/)
 
 ---
 
+### Replicating Research: 
 
+### [Project No. 1: Stock Trade Data Analysis](https://github.com/manishgupta-ind/trade_data_analysis)
 
+<img src="images/stock_market.jpg?raw=true"/>
+
+Objective: I was given a dataset (570 rows × 6 columns) containing historical trade details such as entry price, exit price, p&l and some technical indicators like atr_perc, roc and rsi. Objective was to analyze dataset in python and  try to find best range of atr_perc , roc , rsi  so that the sum of P&L is maximized for the range of values for atr_perc , roc , rsi.
+
+Solution:
+
+Indicator	Min. Value	Max. Value
+RSI 		58.02 		89.72
+ATR_perc	0.274223035    	0.427709112
+ROC		-77.72927145 	2633.788326
+
+Final P&L if we take entry only when given technical indicators were within above range: Rs. 65773
+
+Time taken by program to process complete data and generate output: 2.03 seconds
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
+### Competitions:
+- [Coming soon...](http://example.com/)
+
+---
+
+### Blogs & Vlogs: 
+
+- [Coming soon...](http://example.com/)
+
+---
+
+---
+<p style="font-size:11px"> Copyright (c) <a href="https://manishgupta-ind.github.io/">Manish Gupta</a></p>
