@@ -1,11 +1,11 @@
-## Portfolio
+## My Portfolio
 
 ---
 
-### Category Name 1 
+### Assignments & Coursework: 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Income Qualification](/sample_page)
+<img src="images/IncomeQual.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
