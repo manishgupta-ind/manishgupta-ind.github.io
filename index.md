@@ -1,3 +1,12 @@
+## About me:
+I am Electronics & Instrumentation Engineer by qualification and possess around 16+ years of domain experience in Power/ Energy/ Infra/ Railway sector. I have diversified experience in Business Development, Tendering, Bid Management, Costing & Estimation, Procurement, Operations, Team Management,  Strategic Planning, Tie-ups & Joint Ventures. Some of the companies I have worked with are - Skipper Electricals India Ltd., KEC International Limited, Gepdec Infratech Limited.
+
+Presently I pursuing PGP program in Data Science from Simplilearn which is delivered in partnership with Purdue University and IBM. I am passionate about Data Analysis, Machine Learning, Deep Learning and Artificial Intelligence. I have worked on some of the very good machine learning projects for regression, classification as well as clustering problems and presently working on some deep learning projects.
+
+### Skill:
+Data Science, Machine Learning, Deep Learning, Python, R Programming, SQL, HTML, Flask/ Django. Google Cloud AutoML Table, Google Cloud/ Amazon Web Services (AWS)
+
+---
 ## My Portfolio
 
 ---
