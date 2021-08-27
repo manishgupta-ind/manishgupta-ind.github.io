@@ -4,7 +4,9 @@
 
 ### Assignments & Coursework: 
 
-[Income Qualification](/sample_page)
+[Project No. 1: Income Qualification](/sample_page)
+<br></br>
+<br></br>
 <img src="images/IncomeQual.png?raw=true"/>
 
 ---
