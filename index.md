@@ -59,6 +59,4 @@ Time taken by program to process complete data and generate output: 2.03 seconds
 - [Coming soon...](https://manishgupta-ind.github.io/)
 
 ---
-
----
 <p style="font-size:11px"> Copyright (c) <a href="https://manishgupta-ind.github.io/">Manish Gupta</a></p>
