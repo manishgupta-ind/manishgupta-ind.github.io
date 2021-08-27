@@ -8,7 +8,7 @@ Many social programs have a hard time ensuring that the right people are given e
 In Latin America, a popular method called Proxy Means Test (PMT) uses an algorithm to verify income qualification. With PMT, agencies use a model that considers a family’s observable household attributes like the material of their walls and ceiling or the assets found in their homes to classify them and predict their level of need. While this is an improvement, accuracy remains a problem as the region’s population grows and poverty declines.
 The Inter-American Development Bank (IDB) believes that new methods beyond traditional econometrics, based on a dataset of Costa Rican household characteristics, might help improve PMT’s performance.
 
-<Img src = "images / IncomeQual.png? Raw = true" />
+<img src="images/IncomeQual.png?raw=true"/>
 
 **Project Description:**
     •	Understand input dataset since dataset is huge and contains 143 columns and 9557 observations altogether in training data provided.
@@ -20,4 +20,5 @@ The Inter-American Development Bank (IDB) believes that new methods beyond tradi
     •	Improving model performance using GridSearchCV.
     •	Finally finding important features among predictor and their importance in model performance.
  
--+ 
+---
+<p style="font-size:11px"> Copyright (c) <a href="https://manishgupta-ind.github.io/">Manish Gupta</a></p>
