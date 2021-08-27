@@ -11,7 +11,7 @@ Data Science, Machine Learning, Deep Learning, Python, R Programming, SQL, HTML,
 
 ### Assignments & Coursework: 
 
-### [Project No. 1: Income Qualification](/sample_page)
+### [Project No. 1: Income Qualification](/income_qual)
 
 <img src="images/IncomeQual.png?raw=true"/>
 
