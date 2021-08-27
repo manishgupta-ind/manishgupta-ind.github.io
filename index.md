@@ -15,18 +15,16 @@ Data Science, Machine Learning, Deep Learning, Python, R Programming, SQL, HTML,
 
 <img src="images/IncomeQual.png?raw=true"/>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+**Introduction:** I have worked on this project titled “Income Qualification” to fulfil mandatory criteria towards Machine Learning  module of my PGP in Data Science course from Simplilearn.
+**Objective:** To identify the level of income qualification needed for the families for social welfare program in Latin America.
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Coming soon...](/pdf/sample_presentation.pdf)
 
 ---
 
 ### Stand-alone Projects:
-- [Coming soon...](http://example.com/)
+- [Coming soon...](https://manishgupta-ind.github.io/)
 
 ---
 
@@ -52,13 +50,13 @@ Time taken by program to process complete data and generate output: 2.03 seconds
 ---
 
 ### Competitions:
-- [Coming soon...](http://example.com/)
+- [Coming soon...](https://manishgupta-ind.github.io/)
 
 ---
 
 ### Blogs & Vlogs: 
 
-- [Coming soon...](http://example.com/)
+- [Coming soon...](https://manishgupta-ind.github.io/)
 
 ---
 
