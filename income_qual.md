@@ -19,6 +19,8 @@ The Inter-American Development Bank (IDB) believes that new methods beyond tradi
     •	Evaluate performance of model using various metrics such as confusion matrix and classification report.
     •	Improving model performance using GridSearchCV.
     •	Finally finding important features among predictor and their importance in model performance.
- 
+
+<img src="images/welfare.png?raw=true"/>
+
 ---
 <p style="font-size:11px"> Copyright (c) <a href="https://manishgupta-ind.github.io/">Manish Gupta</a></p>
