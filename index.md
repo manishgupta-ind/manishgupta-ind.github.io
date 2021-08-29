@@ -27,7 +27,7 @@ Data Science, Machine Learning, Deep Learning, Python, R Programming, SQL, HTML,
 
 <img src="images/comcast-1.png?raw=true"/>
 
-**Introduction:** I worked on this project titled “Comcast Telecom Consumer Complaints” to fulfil mandatory criteria towards “Data Science with Python” module of my PGP course from Simplilearn. I did not create any machine learning model in this project. I performed data analysis in python using various tools such as Pandas, Numpy, Matplotlib, Seaborn, Worldcloud.
+**Introduction:** I worked on this project titled “Comcast Telecom Consumer Complaints” to fulfil mandatory criteria towards “**Data Science with Python**” module of my PGP course from Simplilearn. I did not create any machine learning model in this project. I performed data analysis in python using various tools such as Pandas, Numpy, Matplotlib, Seaborn, Worldcloud.
 
 <img src="images/comcast graph.png?raw=true"/>
 
@@ -49,7 +49,7 @@ Data Science, Machine Learning, Deep Learning, Python, R Programming, SQL, HTML,
 
 ---
 
-[Coming soon...](/pdf/sample_presentation.pdf)
+[Coming soon...](images/work in progress.pdf)
 
 ---
 
