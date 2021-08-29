@@ -11,27 +11,41 @@ Data Science, Machine Learning, Deep Learning, Python, R Programming, SQL, HTML,
 
 ### Assignments & Coursework: 
 
-### [Project No. 1: Income Qualification](/income_qual)
+### [Project No. 1: INCOME QUALIFICATION](/income_qual)
 
 <img src="images/IncomeQual.png?raw=true"/>
 
-**Introduction:** I have worked on this project titled “Income Qualification” to fulfil mandatory criteria towards Machine Learning  module of my PGP in Data Science course from Simplilearn.
+**Introduction:** I have worked on this project titled “Income Qualification” to fulfil mandatory criteria towards "**Machine Learning**"  module of my PGP in Data Science course from Simplilearn. I used RandomForestClassifier in Python to create model for predicting income level and used GridSearchCV to improve model performance. I also used Matplotlib and Seaborn to visualize data.
 
-**Objective:** To identify the level of income qualification needed for the families for social welfare program in Latin America.
+**Objective:** Many social programs have a hard time ensuring that the right people are given enough aid. It’s tricky when a program focuses on the poorest segment of the population. This segment of the population can’t provide the necessary income and expense records to prove that they qualify. The Inter-American Development Bank (IDB) believes that new methods beyond traditional econometrics, based on a dataset of Costa Rican household characteristics, might help improve PMT’s performance. My task was tTo identify the level of income qualification needed for the families for social welfare program in Latin America using given dataset.
+
+**Tools used:** Python, Pandas, Numpy, Matplotlib, Seaborn, RandomForest Classifier, GridSearchCV.
 
 ---
 
-### [Project No. 2: Comcast Telecom Consumer Complaints](/income_qual)
+### [Project No. 2: COMCAST TELECOM CONSUMER COMPLAINTS](/income_qual)
 
 <img src="images/comcast-1.png?raw=true"/>
 
-**Introduction:** I worked on this project titled “Comcast Telecom Consumer Complaints” to fulfil mandatory criteria towards “Data Science with Python” module of my PGP course from Simplilearn. I have not created any machine learning model in this project. I performed data analysis in python using various tools such as Pandas, Numpy, Matplotlib, Seaborn, Worldcloud.
+**Introduction:** I worked on this project titled “Comcast Telecom Consumer Complaints” to fulfil mandatory criteria towards “Data Science with Python” module of my PGP course from Simplilearn. I did not create any machine learning model in this project. I performed data analysis in python using various tools such as Pandas, Numpy, Matplotlib, Seaborn, Worldcloud.
 
 <img src="images/comcast graph.png?raw=true"/>
 
 **Objective:** Comcast is an American global telecommunication company. The given dataset serves as a repository of public customer complaints filed against Comcast. My task was to analyse given data and provide the trend chart for the number of complaints at monthly/ daily granularity levels and present further insight.
 
 **Tools used:** Python, Pandas, Numpy, Matplotlib, Seaborn, Worldcloud.
+
+---
+
+### [Project No. 3: RETAIL ANALYSIS WITH WALMART DATA](https://github.com/manishgupta-ind/walmart_project_in_r)
+
+**Introduction:** I worked on this project titled “Retail Analysis with Walmart Data” to fulfil mandatory criteria towards “**Data Science with R**” module of my PGP course from Simplilearn. I have created Linear Regression model using R programming language in this project. I performed hypothesis testing and statistical analysis in R using various libraries in R.
+
+<img src="images/walmart.jpg?raw=true"/>
+
+**Objective:** Walmart is one of the leading retail stores in the US. The business was facing a challenge due to unforeseen demands and would run out of stock sometimes. My task was to predict the sales and demand accurately. There are certain events and holidays which impact sales on each day. The sales data is available for 45 stores of Walmart. Walmart runs several promotional markdown events throughout the year. These markdowns precede prominent holidays, the four largest of all, which are the Super Bowl, Labour Day, Thanksgiving, and Christmas. The weeks including these holidays are weighted five times higher in the evaluation than non-holiday weeks. Part of the challenge faced in this project was modelling the effects of markdowns on these holiday weeks in the absence of complete/ideal historical data. My Machine Learning algorithm will predict demand accurately and ingest factors like economic conditions including CPI, Unemployment Index, etc.
+
+**Tools used:** R programming language, dplyr, tidyr.
 
 ---
 
