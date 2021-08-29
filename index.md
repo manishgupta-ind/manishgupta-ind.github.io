@@ -25,13 +25,13 @@ Data Science, Machine Learning, Deep Learning, Python, R Programming, SQL, HTML,
 
 ---
 
-### [Project No. 2: COMCAST TELECOM CONSUMER COMPLAINTS](/income_qual)
+### [Project No. 2: COMCAST TELECOM CONSUMER COMPLAINTS](/comcast)
 
 <img src="images/comcast-1.png?raw=true"/>
 
 **Introduction:** I worked on this project titled “Comcast Telecom Consumer Complaints” to fulfil mandatory criteria towards “**Data Science with Python**” module of my PGP course from Simplilearn. I did not create any machine learning model in this project. I performed data analysis in python using various tools such as Pandas, Numpy, Matplotlib, Seaborn, Worldcloud.
 
-<img src="images/comcast graph.png?raw=true"/>
+<img src="images/comcast wordart.png?raw=true"/>
 
 **Objective:** Comcast is an American global telecommunication company. The given dataset serves as a repository of public customer complaints filed against Comcast. My task was to analyse given data and provide the trend chart for the number of complaints at monthly/ daily granularity levels and present further insight.
 
