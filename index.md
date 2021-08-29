@@ -7,19 +7,21 @@ Presently I pursuing PGP program in Data Science from Simplilearn which is deliv
 Data Science, Machine Learning, Deep Learning, Python, R Programming, SQL, HTML, Flask/ Django. Google Cloud AutoML Table, Google Cloud/ Amazon Web Services (AWS)
 
 ---
-## My Portfolio
+## My Data Science Portfolio
 
 ### Assignments & Coursework: 
 
 ### [Project No. 1: INCOME QUALIFICATION](/income_qual)
 
-<img src="images/IncomeQual.png?raw=true"/>
+<img src="images/Income_qual_IDB.jpg?raw=true"/>
 
 **Introduction:** I have worked on this project titled “Income Qualification” to fulfil mandatory criteria towards "**Machine Learning**"  module of my PGP in Data Science course from Simplilearn. I used RandomForestClassifier in Python to create model for predicting income level and used GridSearchCV to improve model performance. I also used Matplotlib and Seaborn to visualize data.
 
 **Objective:** Many social programs have a hard time ensuring that the right people are given enough aid. It’s tricky when a program focuses on the poorest segment of the population. This segment of the population can’t provide the necessary income and expense records to prove that they qualify. The Inter-American Development Bank (IDB) believes that new methods beyond traditional econometrics, based on a dataset of Costa Rican household characteristics, might help improve PMT’s performance. My task was tTo identify the level of income qualification needed for the families for social welfare program in Latin America using given dataset.
 
 **Tools used:** Python, Pandas, Numpy, Matplotlib, Seaborn, RandomForest Classifier, GridSearchCV.
+
+<img src="images/Income_qual_feature_imp.PNG?raw=true"/>
 
 ---
 
@@ -60,18 +62,18 @@ Data Science, Machine Learning, Deep Learning, Python, R Programming, SQL, HTML,
 
 ### Replicating Research: 
 
-### [Project No. 1: Stock Trade Data Analysis](https://github.com/manishgupta-ind/trade_data_analysis)
+### [Project No. 1: STOCKS MARKET TRADE DATA ANALYSIS](https://github.com/manishgupta-ind/trade_data_analysis)
 
 <img src="images/stock_market.jpg?raw=true"/>
 
-Objective: I was given a dataset (570 rows × 6 columns) containing historical trade details such as entry price, exit price, p&l and some technical indicators like atr_perc, roc and rsi. Objective was to analyze dataset in python and  try to find best range of atr_perc , roc , rsi  so that the sum of P&L is maximized for the range of values for atr_perc , roc , rsi.
+**Objective:** I was given a dataset (570 rows × 6 columns) containing historical trade details such as entry price, exit price, p&l and some technical indicators like atr_perc, roc and rsi. Objective was to analyze dataset in python and  try to find best range of atr_perc , roc , rsi  so that the sum of P&L is maximized for the range of values for atr_perc , roc , rsi.
 
-Solution:
+**Solution:**
 
-Indicator	Min. Value	Max. Value
-RSI 		58.02 		89.72
-ATR_perc	0.274223035    	0.427709112
-ROC		-77.72927145 	2633.788326
+**Indicator	          Min. Value	            Max. Value**
+RSI 		              58.02 		              89.72
+ATR_perc	            0.274223035    	        0.427709112
+ROC		                -77.72927145 	          2633.788326
 
 Final P&L if we take entry only when given technical indicators were within above range: Rs. 65773
 
