@@ -16,14 +16,14 @@ The Inter-American Development Bank (IDB) believes that new methods beyond tradi
 <img src="images/Income_qual_IDB.jpg?raw=true"/>
 
 **Project Description:**
-- •	Understand input dataset since dataset is huge and contains 143 columns and 9557 observations altogether in training data provided.
-- •	Pre-processing of data including missing value treatment in various columns.
-- •	Checking and dropping one of the highly correlated  feature pairs in household  and individual features in dataset.
-- •	Convert object type variables into numerical data.
-- •	Creating Machine Learning model with Random Forest Classifier.
-- •	Evaluate performance of model using various metrics such as confusion matrix and classification report.
-- •	Improving model performance using GridSearchCV.
-- •	Finally finding important features among predictor and their importance in model performance.
+- Understand input dataset since dataset is huge and contains 143 columns and 9557 observations altogether in training data provided.
+- Pre-processing of data including missing value treatment in various columns.
+- Checking and dropping one of the highly correlated  feature pairs in household  and individual features in dataset.
+- Convert object type variables into numerical data.
+- Creating Machine Learning model with Random Forest Classifier.
+- Evaluate performance of model using various metrics such as confusion matrix and classification report.
+- Improving model performance using GridSearchCV.
+- Finally finding important features among predictor and their importance in model performance.
 
 <img src="images/Income_qual_heatmap.PNG?raw=true"/>
 
