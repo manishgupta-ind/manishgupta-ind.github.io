@@ -1,15 +1,43 @@
 ## About me:
 Hi, I am Electronics & Instrumentation Engineer by qualification and have more than 16 years of domain experience in Power/ Energy/ Infra/ Railway sector. I have diversified experience in Business Development, Tendering, Bid Management, Costing & Estimation, Procurement, Operations, Team Management,  Strategic Planning, Tie-ups & Joint Ventures. Some of the companies I have worked with are - Skipper Electricals India Ltd., KEC International Limited, Gepdec Infratech Limited.
 
-Presently I am pursuing PGP program in Data Science from Simplilearn which is delivered in partnership with Purdue University and IBM. I am passionate about Data Analysis, Machine Learning, Deep Learning and Artificial Intelligence. I have worked on some of the interesting machine learning projects for regression, classification as well as clustering problems and presently working on some deep learning projects.
+Presently I am pursuing PGP program in Data Science from Simplilearn which is delivered in partnership with Purdue University and IBM. I am passionate about Data Analysis, Machine Learning, Deep Learning, Natural Language Processing and Artificial Intelligence. I have worked on some of the interesting machine learning projects for Regression, Classification, Clustering and NLP problems and presently working on some Deep Learning projects.
 
 ### Skill:
-Data Science, Machine Learning, Deep Learning, Python, R Programming, SQL, HTML, Flask/ Django. Google Cloud AutoML Table, Google Cloud/ Amazon Web Services (AWS)
+Data Science, Machine Learning, Deep Learning, Natural Language Processing, Python, R Programming, SQL, HTML, Flask/ Django. Google Cloud AutoML Table, Google Cloud/ Amazon Web Services (AWS)
 
 ---
 ## My Data Science Portfolio
 
 ### Assignments & Coursework: 
+
+### [Project No. 1: TOPIC MODELING](https://github.com/manishgupta-ind/Amazon-Review-Analysis-for-Lenovo)
+
+<img src="images/TOPIC MODEL General.png?raw=true"/>
+
+**Introduction:** I have worked on this project titled “Topic Modeling” to fulfil mandatory criteria towards "**Natural Language Processing**"  module of my PGP in Data Science course from Simplilearn. I used NLTK library to perform various text preprocessing, POS tagging, Lemmatization and Gensim Library to create LDA model for topic identification and finally pyLDAvis to visualize model created. 
+
+**Objective:** A popular mobile phone brand, Lenovo has launched their budget smartphone in the Indian market. The client wants to understand the VOC (voice of the customer) on the product. This will be useful to not just evaluate the current product, but to also get some direction for developing the product pipeline. The client is particularly interested in the different aspects that customers care about. Product reviews by customers on a leading e-commerce site should provide a good view. Perform analysis by POS tagging, topic modeling using LDA, and topic interpretation.
+
+**Tools used:** Python, Pandas, Numpy, Regular Expression, NLTK, POS Tagging, Lemmatization, Gensim, LDA, pyLDAvis.
+
+<img src="images/TOPIC MODEL PyLDAvis.PNG?raw=true"/>
+
+---
+### [Project No. 1: INCOME QUALIFICATION](/income_qual)
+
+<img src="images/Income_qual_IDB.jpg?raw=true"/>
+
+**Introduction:** I have worked on this project titled “Income Qualification” to fulfil mandatory criteria towards "**Machine Learning**"  module of my PGP in Data Science course from Simplilearn. I used RandomForestClassifier in Python to create model for predicting income level and used GridSearchCV to improve model performance. I also used Matplotlib and Seaborn to visualize data.
+
+**Objective:** Many social programs have a hard time ensuring that the right people are given enough aid. It’s tricky when a program focuses on the poorest segment of the population. This segment of the population can’t provide the necessary income and expense records to prove that they qualify. The Inter-American Development Bank (IDB) believes that new methods beyond traditional econometrics, based on a dataset of Costa Rican household characteristics, might help improve PMT’s performance. My task was tTo identify the level of income qualification needed for the families for social welfare program in Latin America using given dataset.
+
+**Tools used:** Python, Pandas, Numpy, Matplotlib, Seaborn, RandomForest Classifier, GridSearchCV.
+
+<img src="images/Income_qual_feature_imp.PNG?raw=true"/>
+
+---
+
 
 ### [Project No. 1: INCOME QUALIFICATION](/income_qual)
 
