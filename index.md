@@ -24,7 +24,24 @@ Data Science, Machine Learning, Deep Learning, Natural Language Processing, Pyth
 <img src="images/TOPIC MODEL PyLDAvis.PNG?raw=true"/>
 
 ---
-### [Project No. 1: INCOME QUALIFICATION](/income_qual)
+### [Project No. 2: WIKIPEDIA TOXICITY](https://github.com/manishgupta-ind/Wikipedia-Toxicity-using-NLP-and-ML)
+
+<img src="images/Wikipedia - logo.jpeg?raw=true"/>
+
+**Introduction:** I have worked on this project titled “Wikipedia Toxicity” to fulfil mandatory criteria towards "**Natural Language Processing**"  module of my PGP in Data Science course from Simplilearn. I performed text preprocessing using various functions such RegEx, Tokenization, Stopwords and Punctuation removals followed by domain stopwords removal and Lemmatization. I also performed Class balancing since datapoints in target variable were imbalanced. Hyperparameter tuning using GridSearch and StratifiedKFold was done to optimize model. SVM Classifier from Scikit-learn library was used to train model with train data and then prediction on test data.
+
+**Objective:** Wikipedia is the world’s largest and most popular reference work on the internet with about 500 million unique visitors per month. It also has millions of contributors who can make edits to pages. The Talk edit pages, the key community interaction forum where the contributing community interacts or discusses or debates about the changes pertaining to a particular topic. Wikipedia continuously strives to help online discussion become more productive and respectful. My task was to help Wikipedia to build a predictive model that identifies toxic comments in the discussion and marks them for cleanup by using NLP and machine learning. Post that, help identify the top terms from the toxic comments.
+
+<img src="images/Wikipedia - Classification Report.PNG?raw=true"/>
+
+**Tools used:** Python, Pandas, Numpy, WordCloud, Regular Expression, NLTK, TfidfVectorizer, Scikit-learn, Support Vector Machine (SVM), Hyperparameter tuning using GridSearch and StratifiedKFold
+
+<img src="images/Wikipedia - WordCloud.PNG?raw=true"/>
+
+---
+
+
+### [Project No. 3: INCOME QUALIFICATION](/income_qual)
 
 <img src="images/Income_qual_IDB.jpg?raw=true"/>
 
@@ -38,22 +55,7 @@ Data Science, Machine Learning, Deep Learning, Natural Language Processing, Pyth
 
 ---
 
-
-### [Project No. 1: INCOME QUALIFICATION](/income_qual)
-
-<img src="images/Income_qual_IDB.jpg?raw=true"/>
-
-**Introduction:** I have worked on this project titled “Income Qualification” to fulfil mandatory criteria towards "**Machine Learning**"  module of my PGP in Data Science course from Simplilearn. I used RandomForestClassifier in Python to create model for predicting income level and used GridSearchCV to improve model performance. I also used Matplotlib and Seaborn to visualize data.
-
-**Objective:** Many social programs have a hard time ensuring that the right people are given enough aid. It’s tricky when a program focuses on the poorest segment of the population. This segment of the population can’t provide the necessary income and expense records to prove that they qualify. The Inter-American Development Bank (IDB) believes that new methods beyond traditional econometrics, based on a dataset of Costa Rican household characteristics, might help improve PMT’s performance. My task was tTo identify the level of income qualification needed for the families for social welfare program in Latin America using given dataset.
-
-**Tools used:** Python, Pandas, Numpy, Matplotlib, Seaborn, RandomForest Classifier, GridSearchCV.
-
-<img src="images/Income_qual_feature_imp.PNG?raw=true"/>
-
----
-
-### [Project No. 2: COMCAST TELECOM CONSUMER COMPLAINTS](/comcast)
+### [Project No. 4: COMCAST TELECOM CONSUMER COMPLAINTS](/comcast)
 
 <img src="images/comcast-1.png?raw=true"/>
 
@@ -67,7 +69,7 @@ Data Science, Machine Learning, Deep Learning, Natural Language Processing, Pyth
 
 ---
 
-### [Project No. 3: RETAIL ANALYSIS WITH WALMART DATA](https://github.com/manishgupta-ind/walmart_project_in_r)
+### [Project No. 5: RETAIL ANALYSIS WITH WALMART DATA](https://github.com/manishgupta-ind/walmart_project_in_r)
 
 **Introduction:** I worked on this project titled “Retail Analysis with Walmart Data” to fulfil mandatory criteria towards “**Data Science with R**” module of my PGP course from Simplilearn. I have created Linear Regression model using R programming language in this project. I performed hypothesis testing and statistical analysis in R using various libraries in R.
 
