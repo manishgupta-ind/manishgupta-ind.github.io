@@ -11,7 +11,19 @@ Data Science, Machine Learning, Deep Learning, Natural Language Processing, Pyth
 
 ### Assignments & Coursework: 
 
-### [Project No. 1: TOPIC MODELING](https://github.com/manishgupta-ind/Amazon-Review-Analysis-for-Lenovo)
+### [Project No. 1: TEXT GENERATION USING DEEP LEARNING](https://github.com/manishgupta-ind/Text-Generation-using-Deep-Learning-RNN-)
+
+<img src="images/RNN-1.jpg?raw=true"/>
+
+**Introduction:** Deep Learning is the most exciting part of Data Science and the next stage after learning Machine Learning. I have worked on this project titled “Text Generation Using Deep Learning” to apply my **Deep Learning** for solving a major problem in **Natural Language Processing** known as **Language Modeling**. I used Keras library to create Recurrent Neural Network model and train it with our dataset to predict text for headline. 
+
+**Objective:** Language Modelling is the core problem for a number of of natural language processing tasks such as speech to text, conversational system, and text summarization. A trained language model learns the likelihood of occurrence of a word/ character based on the previous sequence of words/ characters used in the text. Language models can be operated at character level, n-gram level, sentence level or even paragraph level. We will create a language model for predicting next word by implementing and training state-of-the-art Recurrent Neural Networks under Deep Learning.
+
+**Tools used:** Python, Pandas, Numpy, NLP, Deep Learning, Tensorflow Keras, Recurrent Neural Network (RNN), Long Short Term Memory networks (LSTM).
+
+<img src="images/RNN-2.png?raw=true"/>
+
+### [Project No. 2: TOPIC MODELING](https://github.com/manishgupta-ind/Amazon-Review-Analysis-for-Lenovo)
 
 <img src="images/TOPIC MODEL General.png?raw=true"/>
 
@@ -24,7 +36,7 @@ Data Science, Machine Learning, Deep Learning, Natural Language Processing, Pyth
 <img src="images/TOPIC MODEL PyLDAvis.PNG?raw=true"/>
 
 ---
-### [Project No. 2: WIKIPEDIA TOXICITY](https://github.com/manishgupta-ind/Wikipedia-Toxicity-using-NLP-and-ML)
+### [Project No. 3: WIKIPEDIA TOXICITY](https://github.com/manishgupta-ind/Wikipedia-Toxicity-using-NLP-and-ML)
 
 <img src="images/Wikipedia - logo.jpeg?raw=true"/>
 
@@ -41,7 +53,7 @@ Data Science, Machine Learning, Deep Learning, Natural Language Processing, Pyth
 ---
 
 
-### [Project No. 3: INCOME QUALIFICATION](/income_qual)
+### [Project No. 4: INCOME QUALIFICATION](/income_qual)
 
 <img src="images/Income_qual_IDB.jpg?raw=true"/>
 
@@ -55,7 +67,7 @@ Data Science, Machine Learning, Deep Learning, Natural Language Processing, Pyth
 
 ---
 
-### [Project No. 4: COMCAST TELECOM CONSUMER COMPLAINTS](/comcast)
+### [Project No. 5: COMCAST TELECOM CONSUMER COMPLAINTS](/comcast)
 
 <img src="images/comcast-1.png?raw=true"/>
 
@@ -69,7 +81,7 @@ Data Science, Machine Learning, Deep Learning, Natural Language Processing, Pyth
 
 ---
 
-### [Project No. 5: RETAIL ANALYSIS WITH WALMART DATA](https://github.com/manishgupta-ind/walmart_project_in_r)
+### [Project No. 6: RETAIL ANALYSIS WITH WALMART DATA](https://github.com/manishgupta-ind/walmart_project_in_r)
 
 **Introduction:** I worked on this project titled “Retail Analysis with Walmart Data” to fulfil mandatory criteria towards “**Data Science with R**” module of my PGP course from Simplilearn. I have created Linear Regression model using R programming language in this project. I performed hypothesis testing and statistical analysis in R using various libraries in R.
 
