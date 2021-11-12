@@ -123,14 +123,24 @@ Time taken by program to process complete data and generate output: 2.03 seconds
 
 ---
 
+### Blogs & Vlogs: 
+
+### [GRAPHICAL VISUALIZATION OF LINKEDIN NETWORK](https://github.com/manishgupta-ind/Graphical-Visualization-LinkedIn-Connection)
+
+<img src="images/linkedin_visual1.png?raw=true"/>
+<img src="images/linkedin_visual2.png?raw=true"/>
+
+**Introduction:** We all use LinkedIn to make connections with professionals in our industry or even from any other industry too. On LinkedIn, we see only a list of our connections, so it’s hard to visualize the entire network of your connections. I tried to apply my python skill in Data Science to explore my connections on LinkedIn and find out some interesting information and visualize it in the form of interactive graphs.
+
+Checkout following links to see interactive graphs showing details of my LinkedIn connections:-
+Companies of my LinkedIn connections: https://datapane.com/u/mgupta/reports/J35lWVA/linkedin-connection-company/
+Positions of my LinkedIn connections: https://datapane.com/u/mgupta/reports/j3LQnv7/linkedin-connection-positions/
+
+---
+
 ### Competitions:
 - [Coming soon...](https://manishgupta-ind.github.io/)
 
 ---
 
-### Blogs & Vlogs: 
-
-- [Coming soon...](https://manishgupta-ind.github.io/)
-
----
 <p style="font-size:11px"> Copyright (c) <a href="https://manishgupta-ind.github.io/">Manish Gupta</a></p>
