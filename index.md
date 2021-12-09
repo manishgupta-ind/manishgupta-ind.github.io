@@ -4,7 +4,39 @@ Hi, I am Electronics & Instrumentation Engineer by qualification and have more t
 Presently I am pursuing PGP program in Data Science from Simplilearn which is delivered in partnership with Purdue University and IBM. I am passionate about Data Analysis, Machine Learning, Deep Learning, Natural Language Processing and Artificial Intelligence. I have worked on some of the interesting machine learning projects for Regression, Classification, Clustering and NLP problems and presently working on some Deep Learning projects.
 
 ### Skill:
-Data Science, Machine Learning, Deep Learning, Natural Language Processing, Python, R Programming, SQL, HTML, Flask/ Django. Google Cloud AutoML Table, Google Cloud/ Amazon Web Services (AWS)
+Data Science, Machine Learning, Deep Learning, Natural Language Processing, Python, R Programming, SQL, HTML, Flask/ Django. Google Cloud AutoML Table, Google Cloud/ Amazon Web Services (AWS), Tableau, Dashboarding and Visualization
+
+### Certifications:
+- Python for Data Science             - IBM
+- R Programming for Data Science      - IBM
+- AWS Certified Cloud Practitioner    - Amazon Web Services
+- PGP in Data Science                 - Simplilearn
+
+---
+## CAPSTONE PROJECTS
+
+### [Project No. 1: RETAIL PGP (CUSTOMER SEGMENTATION)](https://github.com/manishgupta-ind/retail_pgp)
+
+<img src="images/Retail PGP0.png?raw=true"/>
+
+**Introduction:** Customer segmentation is the practice of segregating the customer base into groups of individuals based on some common characteristics such as age, gender, interests, and spending habits. It’s a way for organizations to understand their customers. Knowing the differences between customer groups, it’s easier to make strategic decisions regarding business growth and marketing campaigns. Implementing customer segmentation leads to plenty of new business opportunities and business can do a lot of optimization in budgeting, product design, promotion, marketing, customer satisfaction etc. The opportunities to segment are endless and depend mainly on how much customer data you have at your use. There are many machine learning algorithms, each suitable for a specific type of problem. One very common machine learning algorithm that’s suitable for customer segmentation problems is the k-means clustering algorithm which I have used for this project. There are other clustering algorithms as well such as DBSCAN, Agglomerative Clustering, and BIRCH, etc. 
+
+**Objective:** This is my first capstone project and was part of the final assessment for PGP in Data Science course from Simplilearn-Purdue University. My job was to analyze transactional data for an online UK-based retail company and create customer segmentation so that company can create effective marketing campaign. This is a transnational data set which contains all the transactions that occurred between 01/12/2010 and 09/12/2011. The company mainly sells unique and all-occasion gifts.
+
+I performed following tasks in this project:-
+    •	Data Cleaning
+    •	Data Transformation
+    •	Data Modeling - RFM (Recency Frequency Monetary) model
+    •	Data Modeling - K-means clustering algorithm
+    •	Data Reporting - Dashboarding in tableau
+
+<img src="images/Retail PGP3.PNG?raw=true"/>
+
+K-means clustering, an unsupervised algorithms, is one of the techniques that are useful for customer segmentation. The basic concept underlying k-means is to group data into clusters that are more similar.
+
+**Tools used:** Python, Pandas, Numpy, K-means clustering, Scikit-learn, Matplotlib, Seaborn, Data Preprocessing, Data Transformation, Tableau.
+
+<img src="images/Retail PGP Dashboard.png?raw=true"/>
 
 ---
 ## My Data Science Portfolio
