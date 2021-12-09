@@ -15,7 +15,7 @@ Data Science, Machine Learning, Deep Learning, Natural Language Processing, Pyth
 ---
 ## CAPSTONE PROJECTS
 
-### [Project No. 1: RETAIL PGP (CUSTOMER SEGMENTATION)](/retail_pgp)
+### [Project No. 1: RETAIL PGP (CUSTOMER SEGMENTATION)](https://manishgupta-ind.github.io/retail_pgp)
 
 <img src="images/Retail PGP0.png?raw=true"/>
 
