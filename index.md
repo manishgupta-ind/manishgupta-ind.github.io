@@ -15,7 +15,7 @@ Data Science, Machine Learning, Deep Learning, Natural Language Processing, Pyth
 ---
 ## CAPSTONE PROJECTS
 
-### [Project No. 1: RETAIL PGP (CUSTOMER SEGMENTATION)](https://github.com/manishgupta-ind/retail_pgp)
+### [Project No. 1: RETAIL PGP (CUSTOMER SEGMENTATION)](/retail_pgp)
 
 <img src="images/Retail PGP0.png?raw=true"/>
 
@@ -24,11 +24,11 @@ Data Science, Machine Learning, Deep Learning, Natural Language Processing, Pyth
 **Objective:** This is my first capstone project and was part of the final assessment for PGP in Data Science course from Simplilearn-Purdue University. My job was to analyze transactional data for an online UK-based retail company and create customer segmentation so that company can create effective marketing campaign. This is a transnational data set which contains all the transactions that occurred between 01/12/2010 and 09/12/2011. The company mainly sells unique and all-occasion gifts.
 
 I performed following tasks in this project:-
-    •	Data Cleaning
-    •	Data Transformation
-    •	Data Modeling - RFM (Recency Frequency Monetary) model
-    •	Data Modeling - K-means clustering algorithm
-    •	Data Reporting - Dashboarding in tableau
+- Data Cleaning
+- Data Transformation
+- Data Modeling - RFM (Recency Frequency Monetary) model
+- Data Modeling - K-means clustering algorithm
+- Data Reporting - Dashboarding in tableau
 
 <img src="images/Retail PGP3.PNG?raw=true"/>
 
