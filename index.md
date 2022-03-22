@@ -18,11 +18,11 @@ Data Science, Machine Learning, Deep Learning, Natural Language Processing, Pyth
 ### [Project No. 1: Healthcare PGP (LINEAR REGRESSION)](https://github.com/manishgupta-ind/Capstone-Project-Healthcare---PGP)
 Model deployed at: https://python-flask-ml.herokuapp.com/
 
-<img src="images/healthcare_pgp_model.png?raw=true"/>
-
 **Introduction:** NIDDK (National Institute of Diabetes and Digestive and Kidney Diseases) research creates knowledge about and treatments for the most chronic, costly, and consequential diseases. The dataset used in this project is originally from NIDDK. The objective was to predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset.  
 
 **Objective:** This is my first capstone project and was part of the final assessment for PGP in Data Science course from Simplilearn-Purdue University. My task was to analyze patients data from NIDDK which consists of several medical predictor variables and one target variable (Outcome). Predictor variables includes the number of pregnancies the patient has had, their BMI, insulin level, age, and more. I created and trained multiple machine learning models using various classification algorithms. Then all models were compared to evaluation their metrics on given data. Finally model was deployed on heroku.
+
+<img src="images/healthcare_pgp_model.png?raw=true"/>
 
 I performed following tasks in this project:-
 - Data Cleaning
@@ -30,7 +30,7 @@ I performed following tasks in this project:-
 - Data Modeling - various classification model
 - Data Modeling - performance evaluation using various metrics
 - Data Reporting - dashboarding in tableau
-- Model Deployment - finally model(https://python-flask-ml.herokuapp.com/) deployed on heroku.
+- Model Deployment - finally [model](https://python-flask-ml.herokuapp.com/) deployed on heroku.
 
 **Tools used:** Python, Pandas, Numpy, Logistic Regression, Decision Tree, Random Forest, KNN, SVM, Gradient Boosting, Scikit-learn, Matplotlib, Seaborn, Data Preprocessing, Data Transformation, Flask, Tableau.
 
