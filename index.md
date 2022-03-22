@@ -15,7 +15,7 @@ Data Science, Machine Learning, Deep Learning, Natural Language Processing, Pyth
 ---
 ## CAPSTONE PROJECTS
 
-### [Project No. 1: Healthcare PGP (LINEAR REGRESSION)](https://github.com/manishgupta-ind/Capstone-Project-Healthcare---PGP)
+### [Project No. 1: HEALTHCARE PGP (LINEAR REGRESSION)](https://github.com/manishgupta-ind/Capstone-Project-Healthcare---PGP)
 Model deployed at: https://python-flask-ml.herokuapp.com/
 
 **Introduction:** NIDDK (National Institute of Diabetes and Digestive and Kidney Diseases) research creates knowledge about and treatments for the most chronic, costly, and consequential diseases. The dataset used in this project is originally from NIDDK. The objective was to predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset.  
