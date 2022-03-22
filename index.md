@@ -1,10 +1,10 @@
 ## About me:
 Hi, I am Electronics & Instrumentation Engineer by qualification and have more than 16 years of domain experience in Power/ Energy/ Infra/ Railway sector. I have diversified experience in Business Development, Tendering, Bid Management, Costing & Estimation, Procurement, Operations, Team Management,  Strategic Planning, Tie-ups & Joint Ventures. Some of the companies I have worked with are - Skipper Electricals India Ltd., KEC International Limited, Gepdec Infratech Limited.
 
-Presently I am pursuing PGP program in Data Science from Simplilearn which is delivered in partnership with Purdue University and IBM. I am passionate about Data Analysis, Machine Learning, Deep Learning, Natural Language Processing and Artificial Intelligence. I have worked on some of the interesting machine learning projects for Regression, Classification, Clustering and NLP problems and presently working on some Deep Learning projects.
+Presently I am doing internship at Wi-Jungle and my role is to take care of AI/ML part of company projects. I have completed PGP program in Data Science from Simplilearn which was delivered in partnership with Purdue University and IBM. I have around 1 year of academic experience in Data Science/ Machine Learning. I am passionate about Data Analysis, Machine Learning, Deep Learning, Natural Language Processing and Artificial Intelligence. I have worked on some of the interesting machine learning projects for Regression, Classification, Clustering and NLP problems and presently working on NLP projects.
 
 ### Skill:
-Data Science, Machine Learning, Deep Learning, Natural Language Processing, Python, R Programming, SQL, HTML, Flask/ Django. Google Cloud AutoML Table, Google Cloud/ Amazon Web Services (AWS), Tableau, Dashboarding and Visualization
+Data Science, Machine Learning, Deep Learning, Natural Language Processing, Python, R Programming, SQL, HTML, Flask/ Django. Google Cloud AutoML Table, Google Cloud/ Amazon Web Services (AWS), Tableau, Dashboarding and Data Visualization
 
 ### Certifications:
 - Python for Data Science             - IBM
@@ -15,13 +15,34 @@ Data Science, Machine Learning, Deep Learning, Natural Language Processing, Pyth
 ---
 ## CAPSTONE PROJECTS
 
-### [Project No. 1: RETAIL PGP (CUSTOMER SEGMENTATION)](https://manishgupta-ind.github.io/retail_pgp)
+### [Project No. 1: Healthcare PGP (LINEAR REGRESSION)](https://github.com/manishgupta-ind/Capstone-Project-Healthcare---PGP)
+Model deployed at: https://python-flask-ml.herokuapp.com/
+
+<img src="images/healthcare_pgp_model.png?raw=true"/>
+
+**Introduction:** NIDDK (National Institute of Diabetes and Digestive and Kidney Diseases) research creates knowledge about and treatments for the most chronic, costly, and consequential diseases. The dataset used in this project is originally from NIDDK. The objective was to predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset.  
+
+**Objective:** This is my first capstone project and was part of the final assessment for PGP in Data Science course from Simplilearn-Purdue University. My task was to analyze patients data from NIDDK which consists of several medical predictor variables and one target variable (Outcome). Predictor variables includes the number of pregnancies the patient has had, their BMI, insulin level, age, and more. I created and trained multiple machine learning models using various classification algorithms. Then all models were compared to evaluation their metrics on given data. Finally model was deployed on heroku.
+
+I performed following tasks in this project:-
+- Data Cleaning
+- Data Transformation
+- Data Modeling - various classification model
+- Data Modeling - performance evaluation using various metrics
+- Data Reporting - dashboarding in tableau
+- Model Deployment - finally model(https://python-flask-ml.herokuapp.com/) deployed on heroku.
+
+**Tools used:** Python, Pandas, Numpy, Logistic Regression, Decision Tree, Random Forest, KNN, SVM, Gradient Boosting, Scikit-learn, Matplotlib, Seaborn, Data Preprocessing, Data Transformation, Flask, Tableau.
+
+<img src="images/healthcare_pgp_dashboard.png?raw=true"/>
+
+### [Project No. 2: RETAIL PGP (CUSTOMER SEGMENTATION)](https://manishgupta-ind.github.io/retail_pgp)
 
 <img src="images/Retail PGP0.png?raw=true"/>
 
 **Introduction:** Customer segmentation is the practice of segregating the customer base into groups of individuals based on some common characteristics such as age, gender, interests, and spending habits. It is a way for organizations to understand their customers. Knowing the differences between customer groups, it’s easier to make strategic decisions regarding business growth and marketing campaigns. Implementing customer segmentation leads to plenty of new business opportunities and business can do a lot of optimization in budgeting, product design, promotion, marketing, customer satisfaction etc. The opportunities to segment are endless and depend mainly on how much customer data you have at your use. There are many machine learning algorithms, each suitable for a specific type of problem. One very common machine learning algorithm that’s suitable for customer segmentation problems is the k-means clustering algorithm which I have used for this project. There are other clustering algorithms as well such as DBSCAN, Agglomerative Clustering, and BIRCH, etc. 
 
-**Objective:** This is my first capstone project and was part of the final assessment for PGP in Data Science course from Simplilearn-Purdue University. My job was to analyze transactional data for an online UK-based retail company and create customer segmentation so that company can create effective marketing campaign. This is a transnational data set which contains all the transactions that occurred between 01/12/2010 and 09/12/2011. The company mainly sells unique and all-occasion gifts.
+**Objective:** This is my second capstone project and was part of the final assessment for PGP in Data Science course from Simplilearn-Purdue University. My job was to analyze transactional data for an online UK-based retail company and create customer segmentation so that company can create effective marketing campaign. This is a transnational data set which contains all the transactions that occurred between 01/12/2010 and 09/12/2011. The company mainly sells unique and all-occasion gifts.
 
 I performed following tasks in this project:-
 - Data Cleaning
