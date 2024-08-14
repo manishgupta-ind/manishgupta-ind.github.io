@@ -45,7 +45,8 @@ Currently, I am a Principal Consultant - Technology & Implementation at Wipro, w
 - Nuance Certification - Nuance Mix for Partners, Nuance Digital Engagement Platform for Partners
 
 ---
-## CAPSTONE PROJECTS
+## Data Science/ AIML Projects
+**Note:** The projects listed below include both academic projects from my Post Graduate Program in Data Science and personal projects I have undertaken to further hone my skills. Due to confidentiality agreements and the sensitive nature of professional client projects, I am unable to share specific details here. However, I would be happy to discuss my expertise and experience in more detail during a professional conversation.
 
 ### [Project No. 1: HEALTHCARE PGP (BINARY CLASSIFICATION)](https://github.com/manishgupta-ind/Capstone-Project-Healthcare---PGP)
 Model deployed at: [https://python-flask-ml.herokuapp.com/](https://python-flask-ml.herokuapp.com/)
