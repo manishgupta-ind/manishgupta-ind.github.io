@@ -1,16 +1,48 @@
 ## About me:
-Hi, I am a Data Scientist pursuing my passion in AI, ML, DL, NLP, Computer Vision. I am Electronics & Instrumentation Engineer by qualification and have more than 18 years of domain experience in Power/ Energy/ Infra/ Railway sector. I have diversified experience in Business Development, Tendering, Bid Management, Costing & Estimation, Procurement, Operations, Team Management,  Strategic Planning, Tie-ups & Joint Ventures. Some of the companies I have worked with are - Skipper Electricals India Ltd., KEC International Limited, Gepdec Infratech Limited. Presently I am working with Wipro as Principal Consultant - Technology & Implementation.
+I am a Data Scientist with about 6 years of dedicated experience in AI, Machine Learning, Deep Learning, and Natural Language Processing. My journey in data science has allowed me to lead and implement cutting-edge solutions in various domains, including Generative AI, Chatbot development, and NLP.
 
-I am passionate about Data Analysis, Machine Learning, Deep Learning, Natural Language Processing and Artificial Intelligence. I have worked on some of the interesting machine learning projects for Regression, Classification, Clustering and NLP problems and open for collaboration for any interesting assignment.
+Prior to transitioning into data science, I accumulated over a decade of experience in the Power, Energy, and Infrastructure sectors, focusing on business development, tendering, and bid management. This background provides me with a unique perspective on solving complex business challenges through data-driven insights and AI technologies.
+
+Currently, I am a Principal Consultant - Technology & Implementation at Wipro, where I specialize in developing AI/ML solutions that drive innovation and efficiency. I am always eager to collaborate on impactful projects that leverage my expertise in data science and AI.
+
+### Core Competencies:
+- Digital Transformation
+- Data Science
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Computer Vision
+- Reinforcement Learning
+- Generative AI
+- Scrum Master / Agile
 
 ### Skill:
-Data Science, Machine Learning, Deep Learning, Natural Language Processing, Python, R Programming, SQL, HTML, Flask/ Django. Google Cloud AutoML Table, Google Cloud/ Amazon Web Services (AWS), Tableau, Dashboarding and Data Visualization
+- **Languages:** Python, R Programming
+- **Database:** MySQL, SQLite
+- **Dashboarding & Data Visualization:** Tableau
+- **Deep Learning framework:** TensorFlow, Keras
+- **GenAI:** Transformer, Large Language Models, Multimodal, Retrieval Augmented Generation (RAG)
+- **AI Platforms:** Google Generative AI Studio, Google Vertex AI, Nuance Mix, Domino Data Lab - Modelmaker, Dataiku
+- **Python Web framework:** Flask, Django
+- **Cloud:** GCP, AWS
+- **Containerization:** Docker
+- **Automation:** Microsoft Flow
+- **AI-Assisted Development:** GitHub Copilot
+- **CI/CD Pipeline:** GitHub Actions, GitLab
+- **Other:** HTML, Webscrapping
 
 ### Certifications:
-- Python for Data Science             - IBM
-- R Programming for Data Science      - IBM
-- AWS Certified Cloud Practitioner    - Amazon Web Services
-- PGP in Data Science                 - Simplilearn
+- PGP in Data Science from Purdue University in Collaboration With IBM (Simplilearn Certified)
+- AWS Certified Cloud Practitioner
+- Google Digital Cloud Leader
+- Google Associate Cloud Engineer
+- Google Cloud GenAI - L1, L2, L3
+- DeepLearning.AI TensorFlow Developer
+- Coursera Deep Learning Specialization
+- Coursera Natural Language Processing Specialization
+- Coursera (University of Alberta) - Reinforcement Learning Specialization
+- Dataiku Certifications - Core Designer, ML Practitioner, Advanced Designer
+- Nuance Certification - Nuance Mix for Partners, Nuance Digital Engagement Platform for Partners
 
 ---
 ## CAPSTONE PROJECTS
