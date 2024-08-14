@@ -16,7 +16,7 @@ Currently, I am a Principal Consultant - Technology & Implementation at Wipro, w
 - Generative AI
 - Scrum Master / Agile
 
-### Skill:
+### Skills:
 - **Languages:** Python, R Programming
 - **Database:** MySQL, SQLite
 - **Dashboarding & Data Visualization:** Tableau
